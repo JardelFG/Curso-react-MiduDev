@@ -1,0 +1,13 @@
+main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+section{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+section img{
+    height: 400px;
+}
